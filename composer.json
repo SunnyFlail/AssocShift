@@ -7,9 +7,9 @@
     },
     "license": "MIT",
     "autoload": {
-        "psr-4": {
-            "SunnyFlail\\AssocShift\\": "src"
-        }
+        "files": [
+            "src/Function.php"
+        ]
     },
     "require": {}
 }
